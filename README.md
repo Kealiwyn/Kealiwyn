@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kealiwyn
+- 👋 Hi, I’m @Patrick
 - 👀 I’m interested in the future of AI and VR
 - 🌱 I’m currently learning Software Engineering Technology at Centennial College
 - 📫 You can reach me through here or my Blog at Kealiwyn.com
